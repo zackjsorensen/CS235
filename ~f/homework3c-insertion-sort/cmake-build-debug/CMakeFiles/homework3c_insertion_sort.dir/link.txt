@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/homework3c_insertion_sort.dir/sort.cpp.o -o homework3c_insertion_sort 

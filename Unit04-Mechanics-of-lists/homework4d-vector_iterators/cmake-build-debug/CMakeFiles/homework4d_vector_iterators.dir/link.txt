@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/homework4d_vector_iterators.dir/tests.cpp.o -o homework4d_vector_iterators 

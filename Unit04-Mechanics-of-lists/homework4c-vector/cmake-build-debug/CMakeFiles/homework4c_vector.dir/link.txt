@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/homework4c_vector.dir/tests.cpp.o -o homework4c_vector 

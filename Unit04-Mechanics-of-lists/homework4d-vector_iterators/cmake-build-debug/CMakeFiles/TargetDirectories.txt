@@ -1,0 +1,3 @@
+/home/zackjs/byu/cs235/cs235-assignments/Unit04-Mechanics-of-lists/homework4d-vector_iterators/cmake-build-debug/CMakeFiles/homework4d_vector_iterators.dir
+/home/zackjs/byu/cs235/cs235-assignments/Unit04-Mechanics-of-lists/homework4d-vector_iterators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zackjs/byu/cs235/cs235-assignments/Unit04-Mechanics-of-lists/homework4d-vector_iterators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/homework4a_sllist.dir/tests.cpp.o -o homework4a_sllist 
